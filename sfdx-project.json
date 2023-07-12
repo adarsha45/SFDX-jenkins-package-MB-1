@@ -8,7 +8,7 @@
             "default": true
         }
     ],
-    "namespace": "mB",
+    "namespace": "mBB2",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "53.0",
     "packageAliases": {
