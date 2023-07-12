@@ -8,7 +8,7 @@
             "default": true
         }
     ],
-      "namespace": "compliancequest",
+    "namespace": "mB",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "53.0",
     "packageAliases": {
